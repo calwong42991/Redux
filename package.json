@@ -1,0 +1,19 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "Redux ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calwong42991/Redux.git"
+  },
+  "author": "calvin wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calwong42991/Redux/issues"
+  },
+  "homepage": "https://github.com/calwong42991/Redux#readme"
+}
